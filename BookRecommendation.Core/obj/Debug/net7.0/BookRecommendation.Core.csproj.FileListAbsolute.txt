@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\bookRecommendation\BookRecommendation.Core\bin\Debug\net7.0\BookRecommendation.Core.deps.json
+C:\Users\ASUS\source\repos\bookRecommendation\BookRecommendation.Core\bin\Debug\net7.0\BookRecommendation.Core.dll
+C:\Users\ASUS\source\repos\bookRecommendation\BookRecommendation.Core\bin\Debug\net7.0\BookRecommendation.Core.pdb
+C:\Users\ASUS\source\repos\bookRecommendation\BookRecommendation.Core\obj\Debug\net7.0\BookRecommendation.Core.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\bookRecommendation\BookRecommendation.Core\obj\Debug\net7.0\BookRecommendation.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\bookRecommendation\BookRecommendation.Core\obj\Debug\net7.0\BookRecommendation.Core.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\bookRecommendation\BookRecommendation.Core\obj\Debug\net7.0\BookRecommendation.Core.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\bookRecommendation\BookRecommendation.Core\obj\Debug\net7.0\BookRecommendation.Core.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\bookRecommendation\BookRecommendation.Core\obj\Debug\net7.0\BookRecommendation.Core.dll
+C:\Users\ASUS\source\repos\bookRecommendation\BookRecommendation.Core\obj\Debug\net7.0\refint\BookRecommendation.Core.dll
+C:\Users\ASUS\source\repos\bookRecommendation\BookRecommendation.Core\obj\Debug\net7.0\BookRecommendation.Core.pdb
+C:\Users\ASUS\source\repos\bookRecommendation\BookRecommendation.Core\obj\Debug\net7.0\ref\BookRecommendation.Core.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "BookRecommendation.Core/1.0.0": {
+        "runtime": {
+          "BookRecommendation.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BookRecommendation.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
